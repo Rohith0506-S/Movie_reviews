@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Rohith0506-S/Movie_reviews/static/css/main.b51fedb2.css",
+    "main.js": "/Rohith0506-S/Movie_reviews/static/js/main.ffe40639.js",
+    "static/js/453.20cb8b95.chunk.js": "/Rohith0506-S/Movie_reviews/static/js/453.20cb8b95.chunk.js",
+    "index.html": "/Rohith0506-S/Movie_reviews/index.html",
+    "main.b51fedb2.css.map": "/Rohith0506-S/Movie_reviews/static/css/main.b51fedb2.css.map",
+    "main.ffe40639.js.map": "/Rohith0506-S/Movie_reviews/static/js/main.ffe40639.js.map",
+    "453.20cb8b95.chunk.js.map": "/Rohith0506-S/Movie_reviews/static/js/453.20cb8b95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b51fedb2.css",
+    "static/js/main.ffe40639.js"
+  ]
+}
